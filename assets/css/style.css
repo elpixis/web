@@ -494,6 +494,7 @@ h6 {
 }
 
 .boton-wsp:hover {
+  color: #0e9131;
   background: #dcf8c6;
   border: 2px solid #dcf8c6;
 }
