@@ -478,7 +478,7 @@ h6 {
   border: 2px solid #0ebcfd;
 }
 
-#hero .btn-whatsapp {
+.btn-whatsapp {
   font-family: "Poppins", sans-serif;
   text-transform: uppercase;
   font-weight: 500;
@@ -493,7 +493,7 @@ h6 {
   color: #fff;
 }
 
-#hero .btn-whatsapp:hover {
+.btn-whatsapp:hover {
   background: #128c7e;
   border: 2px solid #0ebcfd;
 }
