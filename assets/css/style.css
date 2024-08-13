@@ -464,7 +464,7 @@ h6 {
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 1px;
-  display: inline-block;
+  display: inline;
   padding: 8px 28px;
   border-radius: 50px;
   transition: 0.5s;
@@ -484,7 +484,7 @@ h6 {
   font-weight: 500;
   font-size: 16px;
   letter-spacing: 1px;
-  display: inline-block;
+  display: inline;
   padding: 8px 28px;
   border-radius: 50px;
   transition: 0.5s;
@@ -495,7 +495,7 @@ h6 {
 
 .boton-wsp:hover {
   background: #128c7e;
-  border: 2px solid #0ebcfd;
+  border: 2px solid #128c7e;
 }
 
 /*--------------------------------------------------------------
