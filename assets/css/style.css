@@ -14,8 +14,12 @@
   gap: 8px;   /* Espacio entre botones */
 }
 
-.celeste {
-  color: #0ebcfd;
+/* Para pantallas pequeñas */
+@media (max-width: 600px) {
+  .botones {
+    gap: 4px; /* menos espacio en móviles */
+    flex-wrap: wrap; /* permite que los botones bajen de línea si no caben */
+  }
 }
 
 body {
